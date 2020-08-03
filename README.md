@@ -1,7 +1,7 @@
 ```javascript
 const helloImChristian = {
   web: "https://lowpoly.dk",
-  work: "@omnigame",
+  work: "@omnigame-dev",
   interests: [
     "Creative code",
     "Music",
