@@ -10,7 +10,7 @@ const helloImChristian = {
     "Creative code",
     "Music",
     "Skateboard",
-    "Video games",
+    "Video games"
   ],
   contact: {
     mail: "christian@lowpoly.dk",
