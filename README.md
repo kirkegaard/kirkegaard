@@ -12,9 +12,9 @@ const helloImChristian = {
     "Skateboard",
     "Video games",
   ],
-  contact: [
-    { mail: "christian@lowpoly.dk" },
-    { phone: "+45 23846960" }
-  ]
+  contact: {
+    mail: "christian@lowpoly.dk",
+    phone: "+45 23846960"
+  }
 };
 ```
